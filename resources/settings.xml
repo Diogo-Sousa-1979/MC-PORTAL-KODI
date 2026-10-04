@@ -3,9 +3,9 @@
    
 	<category label="PORTAL 1">
 		<setting id="portal_name_1" type="text" label="Name" default="[B][COLOR lime]PORTAL 1[/COLOR][/B]" />
-   	 	<setting id="portal_url_1" type="text" label="URL" default="http://nxtg.top:8080" visible="eq(-1,false)" />
+   	 	<setting id="portal_url_1" type="text" label="URL" default="http://minastv.club:80" visible="eq(-1,false)" />
    	 	<setting label="Use Custom MAC" type="bool" id="custom_mac_1" default="true"/>
-   	 	<setting id="portal_mac_1" type="text" label="MAC" default="00:1A:79:b8:8e:d5" visible="eq(-1,false)" />
+   	 	<setting id="portal_mac_1" type="text" label="MAC" default="00:1A:79:AD:9E:B9" visible="eq(-1,false)" />
    	 	
    	 	<setting label="Send Serial" type="bool" id="send_serial_1" default="false"/>
    	 	<setting label="Custom Serial" type="bool" id="custom_serial_1" default="false" visible="eq(-1,true)"/>
